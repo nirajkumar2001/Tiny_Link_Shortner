@@ -2,6 +2,12 @@
 
 A full-stack URL shortener application built with Node.js/Express backend and Next.js frontend. This project allows users to shorten long URLs into compact, shareable links.
 
+## 🌐 Live Project
+
+🔗 **Live Demo**: [Visit the live application](https://tinylink-frontend-mocha.vercel.app/)
+
+The application is deployed on Vercel and ready to use!
+
 ## 🚀 Features
 
 - Shorten long URLs into compact links
